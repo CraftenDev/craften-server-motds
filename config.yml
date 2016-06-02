@@ -1,0 +1,11 @@
+motds:
+  generic:
+  - '&aCraften Server%newline&cJetzt mit End!'
+  - '&aCraften Server%newline&cBesser als je zuvor!'
+  - '&aCraften Server%newline&cCraften ist metal, Craften hat Nuesse!'
+  dynamic:
+  - '&aCraften Server%newline&cWarst du schon im End, %player?'
+  - '&aCraften Server%newline&cDeine Insel wartet auf dich, %player!'
+  - '&aCraften Server%newline&cLust auf Paintball, %player?'
+  - '&aCraften Server%newline&cCraften ist metal, Craften hat Nuesse!'
+  - '&aCraften Server%newline&cCraften + %player = <3'
