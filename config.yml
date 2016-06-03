@@ -5,6 +5,7 @@ motds:
   - '&aCraften Server%newline&cCraften ist metal, Craften hat Nuesse!'
   - '&aCraften Server%newline&cJetzt joinen und 1000 Waschmaschinen gewinnen!'
   - '&aCraften Server%newline&cKann Spuren von Creepern enthalten.'
+  - '&aCraften Server%newline&cKeep calm and play on Craften.'
   dynamic:
   - '&aCraften Server%newline&cWarst du schon im End, %player?'
   - '&aCraften Server%newline&cDeine Insel wartet auf dich, %player!'
@@ -13,3 +14,4 @@ motds:
   - '&aCraften Server%newline&cCraften + %player = <3'
   - '&aCraften Server%newline&cKann Spuren von Creepern enthalten.'
   - '&aCraften Server%newline&cHey %player, jetzt joinen und Waschmaschine gewinnen!'
+  - '&aCraften Server%newline&cKeep calm and play on Craften, %player.'
