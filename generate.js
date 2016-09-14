@@ -22,16 +22,16 @@ console.log('motds:')
 console.log('  generic:')
 features.forEach((feature) => {
   news.forEach((newsLine) => {
-    console.log(`  - '${firstLine(feature)}   &c${newsLine}'`)
+    console.log(`  - '${firstLine(feature)}%newline&c${newsLine}'`)
   })
 })
 
 console.log('  dynamic:')
 features.forEach((feature) => {
   news.forEach((newsLine) => {
-    console.log(`  - '${firstLine(feature)}   &c${newsLine}'`)
+    console.log(`  - '${firstLine(feature)}%newline&c${newsLine}'`)
   })
   dynamicSecondLines.forEach((line) => {
-    console.log(`  - '${firstLine(feature)}   &c${line}'`)
+    console.log(`  - '${firstLine(feature)}%newline&c${line}'`)
   })
 })
