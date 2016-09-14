@@ -6,7 +6,8 @@ const news = [
   'Keep calm and play on Craften.'
 ]
 const dynamicSecondLines = [
-  'Worauf wartest du noch, &6%player&c?'
+  'Worauf wartest du noch, &6%player&c?',
+  'Deine Insel wartet auf dich, &6%player&c!'
 ]
 const features = [
   'Skyblock',
