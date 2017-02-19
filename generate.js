@@ -1,4 +1,4 @@
-const firstLine = (feature) => `&r&7&cCr&6af&ete&an &2Se&3rv&9er&r&7&8 | &6${feature} &e+ viel mehr&8 | &71.8-1.10`
+const firstLine = (feature) => `&r&7&cCr&6af&ete&an &2Se&3rv&9er&r&7&8 | &6${feature} &e+ viel mehr&8 | &71.9-1.11`
 const news = [
   'Jetzt mit End!',
   'Besser als je zuvor!',
